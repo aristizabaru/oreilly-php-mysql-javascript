@@ -1,4 +1,5 @@
 <?php // condintional sentenses
+
 $bank_balance = 1000;
 $savings = $money = 0;
 
