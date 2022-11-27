@@ -4,6 +4,10 @@
 
 This is a personal repository for the development of projects and exercises associated with the book “Aprender PHP, MySQL y JavaScript con jQuery, CSS y HTML5 - 5a edición” by Robin Nixon.
 
+## Requirements
+
+- PHP 7.4.3
+
 ## Install
 
 To clone this repository please copy and paste the following code in your terminal (must have git installed)
@@ -18,3 +22,4 @@ This repository is divided by the chapters of the book, each chapter deals with 
 
 - [Chapter 3 - Introduction to PHP](chapter_3)
 - [Chapter 4 - Expressions and control flow in PHP](chapter_4)
+- [Chapter 5 - Functions and objects in PHP](chapter_5)
