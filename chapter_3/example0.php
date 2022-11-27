@@ -1,4 +1,4 @@
-<?php
+<?php // Use of variables
 $username = "Andrés";
 echo $username;
 echo "<br/>";
