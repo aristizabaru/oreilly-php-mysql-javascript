@@ -18,8 +18,9 @@ git clone https://github.com/aristizabaru/oreilly_php_mysql_javascript.git
 
 ## Chapters
 
-This repository is divided by the chapters of the book, each chapter deals with a different topic from which the examples or tests come out.
+This repository is divided by the chapters of the book, each chapter deals with a different topic from which the examples or tests come out. The first two chapters are omitted as they only talk about the history of PHP and setting up a work environment.
 
 - [Chapter 3 - Introduction to PHP](chapter_3)
 - [Chapter 4 - Expressions and control flow in PHP](chapter_4)
 - [Chapter 5 - Functions and objects in PHP](chapter_5)
+- [Chapter 6 - Arrays in PHP](chapter_6)
